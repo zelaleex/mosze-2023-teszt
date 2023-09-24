@@ -26,5 +26,8 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+
+std::cout << "Alex kódjába belerondított Bálint Miklós 2023.09.24."
+
     return 0;
 }
